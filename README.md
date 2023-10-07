@@ -10,10 +10,8 @@ Welcome to WattWatch, your partner in saving resources, money, and the environme
 
 - [Features](#features)
 - [How It Works](#how-it-works)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- [License](#license)
 
 ## Features
 
@@ -49,9 +47,9 @@ Receive valuable tips and tricks to incorporate into your daily life, making it 
 
 WattWatch is easy to use. Simply follow these steps:
 
-1. **Install the App**: Download WattWatch from the App Store or Google Play Store.
+1. **Install the App**: Download WattWatch from this GitHub Repository.
 
-2. **Create an Account**: Sign up for an account using your email or social media login.
+2. **Create an Account**: Sign up for an account using your email or mobile number.
 
 3. **Set Your Goals**: Set monthly consumption goals for electricity and water.
 
@@ -63,37 +61,7 @@ WattWatch is easy to use. Simply follow these steps:
 
 7. **Contribute to Conservation**: Join us in making a difference by conserving resources and reducing waste.
 
-## Installation
-
-WattWatch is available for download on the following platforms:
-
-- [Download on the App Store](#)
-- [Get it on Google Play](#)
-
-## Usage
-
-1. **Login or Sign Up**: Launch the app and log in with your credentials or sign up for a new account.
-
-2. **Set Your Goals**: Set your monthly consumption goals for electricity and water.
-
-3. **Track Your Usage**: Monitor your electricity and water consumption in real-time.
-
-4. **Earn Green Points**: Save resources and earn Green Points, which can be redeemed for coupons or used for bill payments.
-
-5. **Analyze Your Data**: Use the app's analytics to gain insights into your consumption patterns.
-
-6. **Get Tips**: Receive daily life tips to help you save even more.
-
 ## Contribution
 
-We welcome contributions from developers, designers, and anyone passionate about saving resources and making a difference. To contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from developers, designers, and anyone passionate about saving resources and making a difference.
 
-## License
-
-WattWatch is released under the [MIT License](LICENSE). You are free to use, modify, and distribute this software, subject to the terms of the license.
-
-Join us in this mission to make India smarter, greener, and more sustainable with WattWatch. Together, we can create a brighter future for all.
-
----
-
-Thank you for watching our Smart India Hackathon idea submission video. For more information and updates, visit [WattWatch Website](#) and follow us on [Facebook](#), [Twitter](#), and [Instagram](#).
