@@ -6,11 +6,13 @@
 
 Welcome to WattWatch, your partner in saving resources, money, and the environment. WattWatch is an innovative app that revolutionizes the way you monitor and manage your electricity and water consumption. With WattWatch, you can take control of your bills and make a significant impact on the environment.
 
+The Project is built as the part of Smart India Hackathon 2023.
+
 ## Table of Contents
 
 - [Features](#features)
 - [How It Works](#how-it-works)
-- [Usage](#usage)
+- [Versions](#versions)
 - [Contribution](#contribution)
 
 ## Features
@@ -47,7 +49,7 @@ Receive valuable tips and tricks to incorporate into your daily life, making it 
 
 WattWatch is easy to use. Simply follow these steps:
 
-1. **Install the App**: Download WattWatch from this GitHub Repository.
+1. **Install the App**: Download latest version of WattWatch [here](#versions).
 
 2. **Create an Account**: Sign up for an account using your email or mobile number.
 
@@ -60,6 +62,12 @@ WattWatch is easy to use. Simply follow these steps:
 6. **Get Insights**: Analyze your usage patterns and identify opportunities to save.
 
 7. **Contribute to Conservation**: Join us in making a difference by conserving resources and reducing waste.
+
+## Versions
+
+| Version   | Download Link |
+| --------- | ------------- |
+| 0.0.1     | [Download](https://drive.google.com/file/d/1bqN_IDaEY8JbsMRzlBptj6M6x_defJnn/view?usp=sharing) |
 
 ## Contribution
 
