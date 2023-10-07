@@ -1,6 +1,6 @@
 # WattWatch - Water and Electricity Tracking App
 
-![WattWatch Logo](insert_logo_image_url_here)
+<img src="lib/assets/icons/logo.png" alt="My Image" width="200" height="200">
 
 ## Introduction
 
