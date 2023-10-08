@@ -67,7 +67,8 @@ WattWatch is easy to use. Simply follow these steps:
 
 | Version   | Download Link |
 | --------- | ------------- |
-| 0.0.1     | [Download](https://drive.google.com/file/d/1bqN_IDaEY8JbsMRzlBptj6M6x_defJnn/view?usp=sharing) |
+| 0.0.1     | [Download](https://drive.google.com/file/d/1w5fcH6NO4Adkg6YcIXZHbgI_QTLVM0xH/view?usp=sharing) |
+| 0.0.2     | [Download](https://drive.google.com/file/d/1jhfWTIH3V0kG2Wg_n-UjcXovOkneBcwa/view?usp=sharing) |
 
 ## Contribution
 
